@@ -1,0 +1,12 @@
+Bill breakdown: 
+Coffee:              ...$10.3 
+Tea:                 ...$8.65 
+Patato fries:        ...$45.49 
+Veg cheese burger:   ...$35 
+Biscuits:            ...$15.6 
+Water:               ...$20 
+Puff:                ...$12.2 
+Carrot:              ...$15.5 
+tip                  ...$6 
+-----------------------------
+total:               ...$168.74 
